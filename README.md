@@ -1,6 +1,6 @@
 
 ### Hi there 👋
-#  <marquee behavior="scroll" direction="left">I'm **Dr Pooja Revankar**!</marquee>
+#  <marquee behavior="scroll" direction="left">I'm **Dr. Pooja K Revankar**!</marquee>
 
 
 
