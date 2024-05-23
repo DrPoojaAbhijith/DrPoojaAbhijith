@@ -16,7 +16,7 @@
 
 📫 How to reach me: +91-8095844631 or [pujarevankar09@gmail.com](mailto:pujarevankar09@gmail.com)
 
-👨‍💻 All of my projects are available at [my portfolio](https://campsite.bio/dr_pooja).
+👨‍💻 All of my projects are available at [My Portfolio](https://campsite.bio/dr_pooja).
 
 📄 Know about my experience: [My Resume](https://drive.google.com/file/d/1KocGnc9EzQ0idzSfP2tHxaAIdLPqJo4x/view)
 
