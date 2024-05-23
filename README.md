@@ -1,10 +1,3 @@
-## Hi there 👋
-
-<!--
-**DrPoojaAbhijith/DrPoojaAbhijith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
 
 ### Hi there 👋
 #  <marquee behavior="scroll" direction="left">I'm **Dr Pooja Revankar**!</marquee>
