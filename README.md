@@ -30,7 +30,7 @@
 # 💻 My Skills:
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-%230F75A8.svg?style=for-the-badge&logo=power-bi&logoColor=yellow) &nbsp;&nbsp;
-![MS SQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=MS+SQL&logoColor=white&labelColor=#CC2927) &nbsp;&nbsp;
+microsoftsqlserver
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white) &nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) &nbsp;&nbsp;
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) &nbsp;&nbsp;
